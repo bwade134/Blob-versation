@@ -23,3 +23,6 @@ http://p5js.org/reference/#/p5.SoundRecorder - Used for playback of audio(save b
 Look around in the sound libraries and feel free to add, edit, or post anything good you find that we can use. 
 
 https://github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5 - possibility for output mapping.
+
+
+code example for ripple effect for blob - https://forum.processing.org/one/topic/new-to-processing-and-need-help-with-ripple-effect-urgent.html
